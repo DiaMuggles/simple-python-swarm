@@ -1,5 +1,5 @@
 # simple-python-swarm
-A simple python program to run a group of commands or scripts in parallel
+A simple python program using semaphores, to run a group of commands or scripts in parallel
 
 ## Installation
 It is a python 2.7 program and uses the default imports available with python 2.7. No extra installations necessary.
