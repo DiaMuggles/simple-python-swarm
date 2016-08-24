@@ -18,7 +18,7 @@ import os, sys
 import argparse
 
 
-semaphore = threading.Semaphore(20) # The number four here is the number of threads that can acquire the semaphore at one time. This limits the number of subprocesses that can be run at once.
+semaphore = threading.Semaphore(20) # The number twenty here is the number of threads that can acquire the semaphore at one time. This limits the number of subprocesses that can be run at once.
 
 
 
